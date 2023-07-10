@@ -2,7 +2,9 @@
 #### ℹ️ looking for contibuters.
 
 # Novafinity
-![Novafinity](https://github.com/Novafinity/.github/blob/main/Novafinity.png)
+<p align="center">
+    <img src="https://github.com/Novafinity/.github/blob/main/Novafinity_extraLarge.png" alt="Novafinity" style="text-align:center;">
+</p>
 
 Novafinity is a content management system (CMS) built with Laravel and React. It provides more control and more free content than traditional CMS platforms like WordPress. With Novafinity, you can easily manage your website's content, customize your site's design, and add new features.
 
