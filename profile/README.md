@@ -1,5 +1,5 @@
 #### ⚠️ Project under development.
-#### ℹ️ looking for contibuters.
+#### we are looking for contibuters.
 
 # Novafinity
 <p align="center">
